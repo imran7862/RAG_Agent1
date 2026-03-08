@@ -1,4 +1,4 @@
-## 🧠 RAG Agent – High-Level Architecture Diagram
+## 🧠 RAG Agent – High Level Architecture Diagram
 
 ```mermaid
 flowchart LR
