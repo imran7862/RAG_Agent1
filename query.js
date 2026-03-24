@@ -7,7 +7,7 @@ import { PromptTemplate } from '@langchain/core/prompts';
 import { StringOutputParser } from '@langchain/core/output_parsers';
 import { RunnableSequence } from '@langchain/core/runnables';
 
-// configuration
+// configuration details
     const embeddings = new GoogleGenerativeAIEmbeddings({
         apiKey: process.env.GEMINI_API_KEY,
         model: 'models/gemini-embedding-001',
